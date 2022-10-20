@@ -1,11 +1,8 @@
 # Monopoly
 
-En este proyecto formado por [Juan Miguel Moreno Mancilla](https://github.com/Reynn92), [Ismael Barranco Carballo](https://github.com/Isbarcar1249) y [Joël Arnaud Carreras](https://github.com/SagittariusITG) dónde deberemos realizar un código que represente el juego de mesa "Monopoly".
+Proyecto realizado por [Joël Arnaud Carreras](https://github.com/SagittariusITG) dónde se debía realizar un código que represente el juego de mesa "Monopoly".
 
 ## Enunciado
-
-En grupos de 3: Elegir temática y elaborar los diagramas UML (clases, casos de uso y secuencia).
-
 
 * Construir un enum que contenga 10 Calles: Cada calle tiene un nombre, color (que utilizaremos más tarde), precio de venta y precio de alquiler. El precio del alquiler se calcula como el 25% del precio de venta.
 * Contruir clase Tablero: Lista con 10 casillas, de tipo 2 (calles). Debe gestionar qué jugadores hay en qué casilla.
