@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/sagittarius/Documents/P/Monopoly</OriginalElement>
+  <nodes>
+    <node x="390.18597826980795" y="-13.815712475874676">Monopoly.Jugador</node>
+    <node x="194.0922510754445" y="310.5804082290978">Monopoly.Figura</node>
+    <node x="-39.99347845495373" y="178.37380135353146">Monopoly.Tablero</node>
+    <node x="406.00388413557863" y="278.99034368816785">Monopoly.Calles</node>
+    <node x="233.8184078409985" y="165.81443770320823">Monopoly.Casilla</node>
+    <node x="42.60166101210392" y="333.91558494976107">Main</node>
+    <node x="-63.72659174034908" y="-13.482371343291163">Monopoly.Monopoly</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.2105997210599722" showDependencies="false" x="294.5" y="312.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

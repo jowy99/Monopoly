@@ -1,0 +1,9 @@
+Si por algun casual no se viera bien el diagrama de secuencia y/o el de casos, copia el código en esta web.
+
+Secuencia:
+https://sourceb.in/uPJ4nm36ya
+https://www.websequencediagrams.com/
+
+Caso:
+https://sourceb.in/jKdFHwP567
+https://www.websequencediagrams.com/
